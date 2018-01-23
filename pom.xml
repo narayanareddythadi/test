@@ -3,10 +3,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
-	<artifactId>variablescope1</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+	<artifactId>varscope</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>mule</packaging>
-	<name>Mule variablescope Application</name>
+	<name>Mule varscope Application</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
