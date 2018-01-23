@@ -6,7 +6,7 @@
 	<artifactId>variablescope1</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
-	<name>Mule variablescope1 Application</name>
+	<name>Mule variablescope Application</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
